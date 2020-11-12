@@ -1,7 +1,9 @@
 # book.theautomatedtester.co.uk
 
 ## Installation
-Install Java, Maven
+* Install Java
+* Install Maven
+* Install Chrome browser v86
 
 ## Run Test
 * Clone the repository with "theautomatedtester" project
