@@ -1,7 +1,5 @@
 package uk.co.theautomatedtester.book.steps;
 
-import org.testng.Assert;
-
 import uk.co.theautomatedtester.book.env.RunEnvironment;
 import uk.co.theautomatedtester.book.pages.HomePage;
 
